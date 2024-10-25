@@ -5,7 +5,4 @@ This project uses machine learning to predict office prices based on office size
 (provided in the data folder) of Nairobi office listings. The model employs simple linear regression to analyze the relationship between office size and price.
 
 ## Installation
-
-## Usage
-
-## License
+Refer to requirements.txt 
